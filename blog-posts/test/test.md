@@ -1,7 +1,7 @@
 ---
 title: test
 published: false
-description: 
+description:
 tags: test
 ---
 
