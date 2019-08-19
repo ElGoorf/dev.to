@@ -6,4 +6,4 @@ This repo is a collection of [my dev.to articles](https://dev.to/elgoorf). Thank
 # My Articles
 **[React/JS]: [Pro Tip: How to find the accidental mutation](https://dev.to/elgoorf/pro-tip-how-to-find-the-accidental-mutation-586h)**
 
-I demonstrate a quick and effective way to isolate any unintentional mutations
+I demonstrate a quick and effective way of tracking down illusive causes of any unwanted mutations deep within a nested object.
